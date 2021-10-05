@@ -1,30 +1,37 @@
 ## Curriculum Vitae of Jiaxiang Cheng
+**Ph.D. Student in Industrial Informatics**
+    
+[![Twitter Badge](https://img.shields.io/badge/-Jiaxiang_Cheng-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JiaXplorer)](https://twitter.com/JiaXplorer)  [![Linkedin Badge](https://img.shields.io/badge/-Jiaxiang_Cheng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiaxiang-cheng//)](https://www.linkedin.com/in/jiaxiang-cheng/)    
+[![Github Badge](https://img.shields.io/github/stars/jiaxiang-cheng?style=social)](https://github.com/jiaxiang-cheng)    
 
-You can use the [editor on GitHub](https://github.com/jiaxiang-cheng/jiaxiang-cheng.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Phone: (65) 87610296            
+E-mail: jiaxiang.cheng@outlook.com            
+Address: Nanyang Technological University, 50 Nanyang Ave, 639798, Singapore		
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Student researcher with academic and internship experiences in smart factory, smart manufacturing, digital transformation, prognostic health monitoring, applied machine learning, etc.
+
 
 ### Education
 **2020-08 – Present**    
-Nanyang Technological University, Singapore    
+[Nanyang Technological University](https://www.ntu.edu.sg/), Singapore    
 _Ph.D. in Industrial Informatics, School of Electrical and Electronic Engineering_    
-Thesis supervisor: Professor Hu Guoqiang and Professor Tan Yap-Peng
+**Thesis supervisor:** Professor Hu Guoqiang and Professor Tan Yap-Peng
 
 **2019-08 – 2020-07**     
-Nanyang Technological University, Singapore     
+[Nanyang Technological University](https://www.ntu.edu.sg/), Singapore     
 _M.Sc. in Computer Science and Automation, School of Electrical and Electronic Engineering_   
-Thesis title: “_Human-Object Interaction Detection_”     
-Thesis supervisor: Professor Tan Yap-Peng
+**Thesis title:** “_Human-Object Interaction Detection_”     
+**Thesis supervisor:** Professor Tan Yap-Peng
 
 **2019-01 – 2019-05**	     
-Université Grenoble Alpes, Grenoble, France    
+[Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), Grenoble, France    
 _Exchange Program, Physique, Ingénierie, Terre, Environnement, Mécanique (PhITEM)_
 
 **2015-09 – 2019-06**	    
-Beihang University, Beijing, China    
+[Beihang University](https://ev.buaa.edu.cn/), Beijing, China    
 _B.Eng. in Automation, School of Automation Science and Electric Engineering_    
-Thesis title: “_Super-Resolution Reconstruction Research on Remote Sensing Images_”     
-Thesis supervisor: Doctor Yue Haosong    
+**Thesis title:** “_Super-Resolution Reconstruction Research on Remote Sensing Images_”     
+**Thesis supervisor:** Doctor Yue Haosong    
 
 
 ```markdown
