@@ -56,3 +56,30 @@ _B.Eng. in Automation, School of Automation Science and Electric Engineering_
 - Assist in the bidding documents and test reports for IIOT related projects; 
 - Assist in the IP gateway project document; 
 - Assist in the Trusted Service for IIOT platform.
+
+### Selected Publications
+
+Wang, T., **Cheng, J.**, Yang, Y., Esposito, C., Snoussi, H., & Tao, F. (2020). Adaptive Optimization Method in Digital Twin Conveyor Systems via Range-Inspection Control. _IEEE Transactions on Automation Science and Engineering_. (_[Official Repo](https://github.com/jiaxiang-cheng/PyTorch-PDQN-for-Digital-Twin-ACS)_)
+```
+@article{wang2020adaptive,
+  title={Adaptive Optimization Method in Digital Twin Conveyor Systems via Range-Inspection Control},
+  author={Wang, Tian and Cheng, Jiaxiang and Yang, Yi and Esposito, Christian and Snoussi, Hichem and Tao, Fei},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2020},
+  publisher={IEEE}
+}
+```
+
+Yue, H., **Cheng, J.**, Liu, Z., & Chen, W. (2020). Remote-sensing image super-resolution using classifier-based generative adversarial networks. _Journal of Applied Remote Sensing_, 14(4), 046514.
+```
+@article{yue2020remote,
+  title={Remote-sensing image super-resolution using classifier-based generative adversarial networks},
+  author={Yue, Haosong and Cheng, Jiaxiang and Liu, Zhong and Chen, Weihai},
+  journal={Journal of Applied Remote Sensing},
+  volume={14},
+  number={4},
+  pages={046514},
+  year={2020},
+  publisher={International Society for Optics and Photonics}
+}
+```
