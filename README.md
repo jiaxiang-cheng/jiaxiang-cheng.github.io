@@ -57,8 +57,8 @@ _B.Eng. in Automation, School of Automation Science and Electric Engineering_
 - Assist in the IP gateway project document; 
 - Assist in the Trusted Service for IIOT platform.
 
-### Selected Publications
-
+### **Selected Publications**
+#### 2020
 Wang, T., **Cheng, J.**, Yang, Y., Esposito, C., Snoussi, H., & Tao, F. (2020). Adaptive Optimization Method in Digital Twin Conveyor Systems via Range-Inspection Control. _IEEE Transactions on Automation Science and Engineering_. (_[Official Repo](https://github.com/jiaxiang-cheng/PyTorch-PDQN-for-Digital-Twin-ACS)_)
 ```
 @article{wang2020adaptive,
