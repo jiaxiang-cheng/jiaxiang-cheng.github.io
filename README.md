@@ -59,7 +59,7 @@ _B.Eng. in Automation, School of Automation Science and Electric Engineering_
 
 ### **Selected Publications**
 #### 2020
-Wang, T., **Cheng, J.**, Yang, Y., Esposito, C., Snoussi, H., & Tao, F. (2020). Adaptive Optimization Method in Digital Twin Conveyor Systems via Range-Inspection Control. _IEEE Transactions on Automation Science and Engineering_. (_[Official Repo](https://github.com/jiaxiang-cheng/PyTorch-PDQN-for-Digital-Twin-ACS)_)
+Wang, T., **Cheng, J.**, Yang, Y., Esposito, C., Snoussi, H., & Tao, F. (2020). [Adaptive Optimization Method in Digital Twin Conveyor Systems via Range-Inspection Control](https://ieeexplore.ieee.org/document/9303438). _IEEE Transactions on Automation Science and Engineering_. (_[Official Repo](https://github.com/jiaxiang-cheng/PyTorch-PDQN-for-Digital-Twin-ACS)_)
 ```
 @article{wang2020adaptive,
   title={Adaptive Optimization Method in Digital Twin Conveyor Systems via Range-Inspection Control},
@@ -70,7 +70,7 @@ Wang, T., **Cheng, J.**, Yang, Y., Esposito, C., Snoussi, H., & Tao, F. (2020). 
 }
 ```
 
-Yue, H., **Cheng, J.**, Liu, Z., & Chen, W. (2020). Remote-sensing image super-resolution using classifier-based generative adversarial networks. _Journal of Applied Remote Sensing_, 14(4), 046514.
+Yue, H., **Cheng, J.**, Liu, Z., & Chen, W. (2020). [Remote-sensing image super-resolution using classifier-based generative adversarial networks](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-14/issue-4/046514/Remote-sensing-image-super-resolution-using-classifier-based-generative-adversarial/10.1117/1.JRS.14.046514.short?SSO=1). _Journal of Applied Remote Sensing_, 14(4), 046514.
 ```
 @article{yue2020remote,
   title={Remote-sensing image super-resolution using classifier-based generative adversarial networks},
