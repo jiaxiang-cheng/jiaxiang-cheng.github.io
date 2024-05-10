@@ -1,123 +1,85 @@
----
-layout: default
----
+## Curriculum Vitae of Jiaxiang Cheng
+**Ph.D. Student in Industrial Informatics**       
+_Nanyang Technological University, 50 Nanyang Ave, 639798, Singapore_
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<p align="left">
+  <a href= "https://www.linkedin.com/in/jiaxiang-cheng/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://twitter.com/JiaXplorer"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
+</p>	
+<p>
+    <a href="https://github.com/jiaxiang-cheng/"><img src="https://img.shields.io/github/stars/jiaxiang-cheng?color=%234CC61E&label=GitHub%20Stars%20"/></a>
+    <a href="mailto:jiaxiang.cheng@outlook.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Contact%20me-anything-1abc9c.svg"/></a>
+</p>	
 
-[Link to another page](./another-page.html).
+I'm a student researcher from China, with academic and internship experiences in smart factory, smart manufacturing, digital transformation, prognostic health monitoring, applied machine learning, etc. In addition to Chinese, I speak English obviously, und Deutsch, aber nicht sehr gut ;D
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### **Education**
+#### 2020-08 – Present    
+**[Nanyang Technological University](https://www.ntu.edu.sg/), Singapore**    
+_Ph.D. in Industrial Informatics, School of Electrical and Electronic Engineering_    
+**Thesis supervisor:** Professor Hu Guoqiang and Professor Tan Yap-Peng
 
-# Header 1
+#### 2019-08 – 2020-07     
+**[Nanyang Technological University](https://www.ntu.edu.sg/), Singapore**     
+_M.Sc. in Computer Science and Automation, School of Electrical and Electronic Engineering_   
+**Thesis title:** “_Human-Object Interaction Detection_”     
+**Thesis supervisor:** Professor Tan Yap-Peng
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+#### 2019-01 – 2019-05	     
+**[Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), Grenoble, France**    
+_Exchange Program, Physique, Ingénierie, Terre, Environnement, Mécanique (PhITEM)_
 
-## Header 2
+#### 2015-09 – 2019-06	    
+**[Beihang University](https://ev.buaa.edu.cn/), Beijing, China**    
+_B.Eng. in Automation, School of Automation Science and Electric Engineering_    
+**Thesis title:** “_Super-Resolution Reconstruction Research on Remote Sensing Images_”     
+**Thesis supervisor:** Doctor Yue Haosong    
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### **Professional Experiences**
+#### 2020-04 – 2020-07      
+**Digital Transformation Intern**       
+[Air Liquide Singapore (ALSg) Private Limited](https://www.airliquide.com/singapore), Singapore        
+- Help create digital transformation framework and benchmark for PAG plants;     
+- Assist in digital optimization work by formatting diagrams and validating algorithms
 
-### Header 3
+#### 2019-09 – 2020-03      
+**Smart Factory Deployment Intern**        
+[Schneider Electric](https://www.se.com/sg/en/), Singapore
+- Data visualization, dashboard created using Tableau, for KPIs observatory in smart factory globally;        
+- Create framework or benchmark for evaluating technical solutions in the smart factory;        
+- Analysis on use cases to help to build the objective or milestone for the future development.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+#### 2018-09 – 2018-12	     
+**Smart Manufacturing Research Assistant**		      
+[China Academy of Information and Communication Technology](http://www.caict.ac.cn/english/), Beijing, China     
+- Assist in the bidding documents and test reports for IIOT related projects; 
+- Assist in the IP gateway project document; 
+- Assist in the Trusted Service for IIOT platform.
+
+### **Selected Publications**
+#### 2020
+Wang, T., **Cheng, J.**, Yang, Y., Esposito, C., Snoussi, H., & Tao, F. (2020). [Adaptive Optimization Method in Digital Twin Conveyor Systems via Range-Inspection Control](https://ieeexplore.ieee.org/document/9303438). _IEEE Transactions on Automation Science and Engineering_. (_[Official Repo](https://github.com/jiaxiang-cheng/PyTorch-PDQN-for-Digital-Twin-ACS)_)
+```
+@article{wang2020adaptive,
+  title={Adaptive Optimization Method in Digital Twin Conveyor Systems via Range-Inspection Control},
+  author={Wang, Tian and Cheng, Jiaxiang and Yang, Yi and Esposito, Christian and Snoussi, Hichem and Tao, Fei},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2020},
+  publisher={IEEE}
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+Yue, H., **Cheng, J.**, Liu, Z., & Chen, W. (2020). [Remote-sensing image super-resolution using classifier-based generative adversarial networks](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-14/issue-4/046514/Remote-sensing-image-super-resolution-using-classifier-based-generative-adversarial/10.1117/1.JRS.14.046514.short?SSO=1). _Journal of Applied Remote Sensing_, 14(4), 046514.
 ```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+@article{yue2020remote,
+  title={Remote-sensing image super-resolution using classifier-based generative adversarial networks},
+  author={Yue, Haosong and Cheng, Jiaxiang and Liu, Zhong and Chen, Weihai},
+  journal={Journal of Applied Remote Sensing},
+  volume={14},
+  number={4},
+  pages={046514},
+  year={2020},
+  publisher={International Society for Optics and Photonics}
+}
 ```
