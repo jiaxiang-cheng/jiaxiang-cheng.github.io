@@ -1,4 +1,5 @@
-## Curriculum Vitae of Jiaxiang Cheng
+[//]: # (## Curriculum Vitae of Jiaxiang Cheng)
+## Biography
 **Ph.D. Student in Industrial Informatics**       
 _Nanyang Technological University, 50 Nanyang Ave, 639798, Singapore_
 
