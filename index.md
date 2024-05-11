@@ -48,8 +48,40 @@ _B.Eng. in Automation, School of Automation Science and Electric Engineering_
 - Assist in the Trusted Service for IIOT platform.
 
 ### **Selected Publications**
-#### 2020
-Wang, T., **Cheng, J.**, Yang, Y., Esposito, C., Snoussi, H., & Tao, F. (2020). [Adaptive Optimization Method in Digital Twin Conveyor Systems via Range-Inspection Control](https://ieeexplore.ieee.org/document/9303438). _IEEE Transactions on Automation Science and Engineering_. (_[Official Repo](https://github.com/jiaxiang-cheng/PyTorch-PDQN-for-Digital-Twin-ACS)_)
+
+**Cheng, J.**, Cho, S., Tan, Y. P., & Hu, G. (2023, September). 
+[Deep Learning-Enabled Statistical Model Estimation for Power Transformers with 
+Censoring and Truncation Problems](https://www.papers.phmsociety.org/index.php/phmap/article/view/3762). 
+In _PHM Society Asia-Pacific Conference_ (Vol. 4, No. 1).
+```
+@inproceedings{cheng2023deep,
+  title={Deep Learning-Enabled Statistical Model Estimation for Power Transformers with Censoring and Truncation Problems},
+  author={Cheng, Jiaxiang and Cho, Sungin and Tan, Yap Peng and Hu, Guoqiang},
+  booktitle={PHM Society Asia-Pacific Conference},
+  volume={4},
+  number={1},
+  year={2023}
+}
+```
+
+**Cheng, J.**, Cho, S., Tan, Y. P., & Hu, G. (2023, September). 
+[A Survey of Prognostics and Health Management for Transformers: 
+From Statistical Analysis to Condition-Based Diagnostics](https://papers.phmsociety.org/index.php/phmap/article/view/3607). 
+In _PHM Society Asia-Pacific Conference_ (Vol. 4, No. 1).
+```
+@inproceedings{cheng2023survey,
+  title={A Survey of Prognostics and Health Management for Transformers: From Statistical Analysis to Condition-Based Diagnostics},
+  author={Cheng, Jiaxiang and Cho, Sungin and Tan, Yap Peng and Hu, Guoqiang},
+  booktitle={PHM Society Asia-Pacific Conference},
+  volume={4},
+  number={1},
+  year={2023}
+}
+```
+
+Wang, T., **Cheng, J.**, Yang, Y., Esposito, C., Snoussi, H., & Tao, F. (2020). 
+[Adaptive Optimization Method in Digital Twin Conveyor Systems via Range-Inspection Control](https://ieeexplore.ieee.org/document/9303438). 
+_IEEE Transactions on Automation Science and Engineering_. (_[Official Repo](https://github.com/jiaxiang-cheng/PyTorch-PDQN-for-Digital-Twin-ACS)_)
 ```
 @article{wang2020adaptive,
   title={Adaptive Optimization Method in Digital Twin Conveyor Systems via Range-Inspection Control},
