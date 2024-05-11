@@ -1,16 +1,24 @@
 [//]: # (## Curriculum Vitae of Jiaxiang Cheng)
 ## Biography
-**Ph.D. Student in Industrial Informatics**       
+
+[//]: # (**Ph.D. Student in Industrial Informatics**       )
 _Nanyang Technological University, 50 Nanyang Ave, 639798, Singapore_
 
-<p align="left">
-  <a href= "https://www.linkedin.com/in/jiaxiang-cheng/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "https://twitter.com/JiaXplorer"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
-</p>	
-<p>
-    <a href="https://github.com/jiaxiang-cheng/"><img src="https://img.shields.io/github/stars/jiaxiang-cheng?color=%234CC61E&label=GitHub%20Stars%20"/></a>
-    <a href="mailto:jiaxiang.cheng@outlook.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Contact%20me-anything-1abc9c.svg"/></a>
-</p>	
+[//]: # (`<p align="left">)
+
+[//]: # (  <a href= "https://www.linkedin.com/in/jiaxiang-cheng/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>)
+
+[//]: # (  <a href= "https://twitter.com/JiaXplorer"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>)
+
+[//]: # (</p>	)
+
+[//]: # (<p>)
+
+[//]: # (    <a href="https://github.com/jiaxiang-cheng/"><img src="https://img.shields.io/github/stars/jiaxiang-cheng?color=%234CC61E&label=GitHub%20Stars%20"/></a>)
+
+[//]: # (    <a href="mailto:jiaxiang.cheng@outlook.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Contact%20me-anything-1abc9c.svg"/></a>)
+
+[//]: # (</p>	`)
 
 I'm a student researcher from China, with academic and internship experiences in smart factory, smart manufacturing, digital transformation, prognostic health monitoring, applied machine learning, etc. In addition to Chinese, I speak English obviously, und Deutsch, aber nicht sehr gut ;D
 
