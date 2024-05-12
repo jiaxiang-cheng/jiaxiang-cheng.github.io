@@ -1,51 +1,55 @@
 [//]: # (## Curriculum Vitae of Jiaxiang Cheng)
-## Biography
+### Biography
 
-I'm a student researcher from China, with academic and internship experiences in smart factory, smart manufacturing, digital transformation, prognostic health monitoring, applied machine learning, etc. In addition to Chinese, I speak English obviously, und Deutsch, aber nicht sehr gut ;D
+I'm currently a Ph.D. candidate at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. My research
+topic is machine learning for prognostics and health management in industrial systems.
 
 
 ### **Education**
-#### 2020-08 – Present    
+#### Aug 2020 – Present    
 **[Nanyang Technological University](https://www.ntu.edu.sg/), Singapore**    
-_Ph.D. in Industrial Informatics, School of Electrical and Electronic Engineering_    
-**Thesis supervisor:** Professor Hu Guoqiang and Professor Tan Yap-Peng
+_Doctor of Philosophy (Ph.D.), School of Electrical and Electronic Engineering_    
+**Thesis supervisor:** Prof. Hu Guoqiang and Prof. Tan Yap-Peng
 
-#### 2019-08 – 2020-07     
+#### Aug 2019 – Jul 2020     
 **[Nanyang Technological University](https://www.ntu.edu.sg/), Singapore**     
 _M.Sc. in Computer Science and Automation, School of Electrical and Electronic Engineering_   
-**Thesis title:** “_Human-Object Interaction Detection_”     
-**Thesis supervisor:** Professor Tan Yap-Peng
+**Thesis:** “_Human-Object Interaction Detection_”     
+**Thesis supervisor:** Prof. Tan Yap-Peng
 
-#### 2019-01 – 2019-05	     
+#### Jan 2019 – May 2019	     
 **[Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), Grenoble, France**    
 _Exchange Program, Physique, Ingénierie, Terre, Environnement, Mécanique (PhITEM)_
 
-#### 2015-09 – 2019-06	    
+#### Sep 2015 – Jun 2019	    
 **[Beihang University](https://ev.buaa.edu.cn/), Beijing, China**    
 _B.Eng. in Automation, School of Automation Science and Electric Engineering_    
-**Thesis title:** “_Super-Resolution Reconstruction Research on Remote Sensing Images_”     
-**Thesis supervisor:** Doctor Yue Haosong    
+**Thesis:** “_Super-Resolution Reconstruction Research on Remote Sensing Images_”     
+**Thesis supervisor:** Dr. Yue Haosong    
 
 ### **Professional Experiences**
-#### 2020-04 – 2020-07      
-**Digital Transformation Intern**       
-[Air Liquide Singapore (ALSg) Private Limited](https://www.airliquide.com/singapore), Singapore        
-- Help create digital transformation framework and benchmark for PAG plants;     
+
+#### Jul 2023 – Oct 2023    
+
+**Data Scientist Intern**             
+[American Express](https://www.americanexpress.com/), Singapore        
+- Develop deep learning models for predicting customer behavior and decision making
+- Collect and prepare customer data for model development and validation
+
+#### Apr 2020 – Jul 2020    
+
+**Digital Transformation Intern**             
+[Air Liquide](https://www.airliquide.com/singapore), Singapore        
+- Help create digital transformation framework and benchmark for PAG plants    
 - Assist in digital optimization work by formatting diagrams and validating algorithms
 
-#### 2019-09 – 2020-03      
+#### Sep 2019 – Mar 2020      
 **Smart Factory Deployment Intern**        
 [Schneider Electric](https://www.se.com/sg/en/), Singapore
-- Data visualization, dashboard created using Tableau, for KPIs observatory in smart factory globally;        
-- Create framework or benchmark for evaluating technical solutions in the smart factory;        
-- Analysis on use cases to help to build the objective or milestone for the future development.
+- Data visualization, dashboard created using Tableau, for KPIs observatory in smart factory globally        
+- Create framework or benchmark for evaluating technical solutions in the smart factory        
+- Analysis on use cases to help to build the objective or milestone for the future development
 
-#### 2018-09 – 2018-12	     
-**Smart Manufacturing Research Assistant**		      
-[China Academy of Information and Communication Technology](http://www.caict.ac.cn/english/), Beijing, China     
-- Assist in the bidding documents and test reports for IIOT related projects; 
-- Assist in the IP gateway project document; 
-- Assist in the Trusted Service for IIOT platform.
 
 ### **Selected Publications**
 
