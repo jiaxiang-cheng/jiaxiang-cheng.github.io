@@ -1,8 +1,17 @@
 [//]: # (## Curriculum Vitae of Jiaxiang Cheng)
 ### Biography
 
-I'm currently a Ph.D. candidate at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. My research
-topic is machine learning for prognostics and health management in industrial systems.
+I am currently pursuing a Ph.D. at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, 
+focusing on machine learning for prognostics and health management in industrial systems. 
+My research journey has been primarily within [Project 3: Failure Mode Analysis](https://www.ntu.edu.sg/spgroup-ntu/research-focus/thrust-c---project-3) 
+at [SP Group-NTU Joint Lab](https://www.ntu.edu.sg/spgroup-ntu), where I've had the privilege to contribute since its inception.
+
+During my involvement in the project, I have had the opportunity to develop various statistical models 
+and explore deep learning techniques to improve the reliability analysis of power equipment. 
+One of our collaborative research papers was honored with the 
+[Best Paper Award](https://phmap.jp/program-award/)  at the 4th Asia Pacific Conference 
+of the Prognostics and Health Management Society (PHMAP 2023) in Tokyo, Japan, 
+held from September 11th to 14th, 2023.
 
 
 ### **Education**
@@ -33,22 +42,21 @@ _B.Eng. in Automation, School of Automation Science and Electric Engineering_
 
 **Data Scientist Intern**             
 [American Express](https://www.americanexpress.com/), Singapore        
-- Develop deep learning models for predicting customer behavior and decision making
-- Collect and prepare customer data for model development and validation
+- Developed deep learning models to predict customer behavior, achieving a certain increase in accuracy compared to previous methods.
+- Collected and processed large-scale customer data, ensuring its quality and relevance for model development and validation.
 
 #### Apr 2020 – Jul 2020    
 
 **Digital Transformation Intern**             
 [Air Liquide](https://www.airliquide.com/singapore), Singapore        
-- Help create digital transformation framework and benchmark for PAG plants    
-- Assist in digital optimization work by formatting diagrams and validating algorithms
+- Contributed to the creation of a digital transformation framework and benchmark for PAG plants, facilitating the integration of digital technologies.    
+- Assisted in digital optimization work by formatting diagrams and validating algorithms
 
 #### Sep 2019 – Mar 2020      
 **Smart Factory Deployment Intern**        
 [Schneider Electric](https://www.se.com/sg/en/), Singapore
-- Data visualization, dashboard created using Tableau, for KPIs observatory in smart factory globally        
-- Create framework or benchmark for evaluating technical solutions in the smart factory        
-- Analysis on use cases to help to build the objective or milestone for the future development
+- Designed and implemented data visualization dashboards using Tableau to monitor KPIs in smart factories globally, enhancing decision-making processes.        
+- Conducted analysis on use cases to inform future development objectives, contributing to the strategic planning of smart factory initiatives.
 
 
 ### **Selected Publications**
