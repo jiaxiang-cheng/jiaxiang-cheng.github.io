@@ -13,8 +13,8 @@ One of our collaborative research papers was honored with the
 of the Prognostics and Health Management Society (PHMAP 2023) in Tokyo, Japan, 
 held from September 11th to 14th, 2023.
 
-### Official Coverage
-
+### Media Exposure
+Check out some of the media coverage featuring my work and accomplishments:
 - [Apr 2024] [Champion at the NUS Fintech Summit 2024](https://www.linkedin.com/posts/ntusg_ntusg-ntusginnovation-ntusgstudents-activity-7176535505541427201-cUmB?utm_source=share&utm_medium=member_desktop), 
 posted by [Nanyang Technological University Singapore](https://www.linkedin.com/school/ntusg).     
 - [Aug 2023] [Best Paper Award](https://www.linkedin.com/posts/ntueee_ntueee-ntueee-activity-7110914240017825792-MmX8?utm_source=share&utm_medium=member_desktop)  at the 4th Asia Pacific Conference 
