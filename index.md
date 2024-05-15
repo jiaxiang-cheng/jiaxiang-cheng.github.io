@@ -13,8 +13,15 @@ One of our collaborative research papers was honored with the
 of the Prognostics and Health Management Society (PHMAP 2023) in Tokyo, Japan, 
 held from September 11th to 14th, 2023.
 
+### Official Coverage
 
-### **Education**
+- [Apr 2024] [Champion at the NUS Fintech Summit 2024](https://www.linkedin.com/posts/ntusg_ntusg-ntusginnovation-ntusgstudents-activity-7176535505541427201-cUmB?utm_source=share&utm_medium=member_desktop), 
+posted by [Nanyang Technological University Singapore](https://www.linkedin.com/school/ntusg).     
+- [Aug 2023] [Best Paper Award](https://www.linkedin.com/posts/ntueee_ntueee-ntueee-activity-7110914240017825792-MmX8?utm_source=share&utm_medium=member_desktop)  at the 4th Asia Pacific Conference 
+of the Prognostics and Health Management Society (PHMAP 2023), 
+posted by [NTU School of Electrical & Electronic Engineering](https://www.linkedin.com/company/ntueee/).
+
+### Education
 #### Aug 2020 – Present    
 **[Nanyang Technological University](https://www.ntu.edu.sg/), Singapore**    
 _Doctor of Philosophy (Ph.D.), School of Electrical and Electronic Engineering_    
@@ -36,7 +43,7 @@ _B.Eng. in Automation, School of Automation Science and Electric Engineering_
 **Thesis:** “_Super-Resolution Reconstruction Research on Remote Sensing Images_”     
 **Thesis supervisor:** Dr. Yue Haosong    
 
-### **Professional Experiences**
+### Professional Experiences
 
 #### Jul 2023 – Oct 2023    
 
@@ -59,7 +66,7 @@ _B.Eng. in Automation, School of Automation Science and Electric Engineering_
 - Conducted analysis on use cases to inform future development objectives, contributing to the strategic planning of smart factory initiatives.
 
 
-### **Selected Publications**
+### Selected Publications
 
 **Cheng, J.**, Cho, S., Tan, Y. P., & Hu, G. (2023, September). 
 [Deep Learning-Enabled Statistical Model Estimation for Power Transformers with 
